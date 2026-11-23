@@ -1,0 +1,24 @@
+
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Temporary editor files
+.vs/
+*.sln
+
+*.log
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local Aura files
+.Aura/
+
+# Local credentials
+.env
+.env.*
+!.env.example
